@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.prodia.xyz/81e59c03-514d-4ba6-8cb4-345be12b9a76.png" width="350" alt="Minha Gatinha Dev">
+  <img src="https://images.prodia.xyz/11678389584014414588.jpeg" width="400" alt="Minha Gatinha Peludinha Dev">
 </div>
 
 # 🌸 Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍
