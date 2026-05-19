@@ -1,65 +1,57 @@
-<p align="center">
-  <img src="https://i.ibb.co/6w46ZgW/gatinha-branca-olhos-verdes.png" width="180" alt="Gatinha">
-  <br>
-  <sub>✨ miau... ✨</sub>
-</p>
-
 # 🌸 Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍
 
 ---
 
-### 👋 💖 Olá, eu sou a Gabrielly Silva! 💖 ✨
+## 🎀 Olá, eu sou a Gabrielly Silva! ✨
 
 <p align="left">
-  <img src="https://img.shields.io/badge/STATUS-TRABALHANDO-success?style=for-the-badge&logoColor=white&color=FF1493" alt="Status">
+  <img src="https://img.shields.io/badge/STATUS-TRABALHANDO-success?style=for-the-badge&logoColor=white&color=FF69B4" alt="Status">
 </p>
 
-> 💅 *Sou profissional com sólida bagagem na área corporativa e de relacionamento estratégico, atualmente graduanda em **Gestão de Recursos Humanos**. Sou apaixonada por processos eficientes, inovação tecnológica, análise de dados e atendimento de excelência.*
+> 💖 **Sou profissional com sólida bagagem na área corporativa e de relacionamento estratégico, atualmente graduanda em Gestão de Recursos Humanos. Sou apaixonada por processos eficientes, inovação tecnológica, análise de dados e atendimento de excelência.** 💅
 
 ---
 
-### 💼 🦋 Um pouco sobre a minha trajetória 🦋
-* 📞 **Excelência em Atendimento:** Forte atuação no setor bancário com monitoria de qualidade, gestão de crises e suporte ao segmento de Alta Renda.
-* 📈 **Foco em Resultados:** Histórico comprovado de otimização de processos internos e elevação de mais de 30% nos indicadores de satisfação (NPS).
-* ✈️ **Transição e Futuro:** Unindo a paixão pelo setor aeroportuário à capacitação técnica contínua em análise de dados e ferramentas tecnológicas.
+### 👑 Trajetória Profissional
+| 📂 Seção | 🌸 Detalhes da Minha Carreira |
+| :--- | :--- |
+| 📞 **Atendimento** | Forte atuação no setor bancário com monitoria de qualidade e suporte Alta Renda. |
+| 📈 **Resultados** | Otimização de processos internos e elevação de mais de 30% nos indicadores de NPS. |
+| ✈️ **Futuro** | Unindo a paixão pela aviação à capacitação técnica em análise de dados. |
 
 ---
 
-### 🛠️ 🛍️ Ferramentas & Competências Técnicas 🛍️
-Aqui estão as principais tecnologias e ferramentas que domino e aplico nos meus projetos e rotinas diárias:
+### 🛠️ Ferramentas & Competências
+Aqui estão as principais tecnologias que domino no meu dia a dia:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/ChatGPT_&_IA-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=FF1493" alt="Excel">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=FF69B4" alt="SQL">
+  <img src="https://img.shields.io/badge/ChatGPT_&_IA-412991?style=for-the-badge&logo=openai&logoColor=white&color=FF1493" alt="IA">
 </p>
 
-* 📊 **Análise de Dados:** Consolidação de relatórios, triagem de dados e criação de planilhas inteligentes no Excel.
-* 🗄️ **Banco de Dados:** Desenvolvimento contínuo de consultas estruturadas usando SQL.
-* 🤖 **Inteligência Artificial:** Engenharia de prompts aplicados à produtividade e otimização de fluxos corporativos.
+* 💎 **Análise de Dados:** Criação de planilhas inteligentes e relatórios no Excel.
+* 💎 **Banco de Dados:** Desenvolvimento de consultas estruturadas usando SQL.
+* 💎 **Inteligência Artificial:** Engenharia de prompts aplicados à produtividade.
 
 ---
 
-### 📜 🎓 Formação & Certificações 🎓
-* 💗 **Graduação em Gestão de Recursos Humanos** (Em andamento)
+### 📜 Formação & Certificações
+* 💕 **Graduação em Gestão de Recursos Humanos** *(Em andamento)*
 * ✈️ **Formação Técnica em Aviação:** Comissária de Voo e Agente de Aeroporto — *CTP Alagoas*
-* 🤖 **Especialização:** Tecnologia, IA Generativa e Modelos de Linguagem
+* 🧠 **Especialização:** Tecnologia, IA Generativa e Modelos de Linguagem
 * 📈 **Estratégia de Posicionamento:** Imagem e Marketing de Conteúdo para Redes Sociais
 
 ---
 
-### 📬 💕 Vamos nos conectar? 💕
-
-Seja para conversar sobre tecnologia, aviação ou recursos humanos, sinta-se à vontade para me encontrar nas redes:
+### 📬 Vamos nos conectar? 💕
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielly-silva-b9030b22a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" alt="LinkedIn">
   </a>
   <a href="mailto:gabriellyssiz2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF1493" alt="Email">
   </a>
 </p>
 
