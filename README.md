@@ -2,12 +2,6 @@
   <img src="https://images.prodia.xyz/81e59c03-514d-4ba6-8cb4-345be12b9a76.png" width="350" alt="Minha Gatinha Dev">
 </div>
 
-<p align="center">
-  <img src="https://i.postimg.co/7Y63XvM7/marie-olhos-verdes.png" width="150" alt="Gatinha Marie">
-  <br>
-  <sub>✨ miau... ✨</sub>
-</p>
-
 # 🌸 Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍
 
 ---
