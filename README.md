@@ -1,66 +1,66 @@
-# 🎀 Bem-vindos ao meu perfil! ✨
-
 <div align="center">
-  <!-- Sua gatinha de volta no topo do perfil -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6N3Z5b3N6cXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6bXN6JmVwaT1ndWlkZV9zZWFyY2gmY3Q9cw/1000/kitty.gif" width="160" alt="Minha Gatinha">
-  
-  ## 🌸 Gaby | Recursos Humanos & Tecnologia ✈️
-  
-  *Organizada, focada e apaixonada por processos, atendimento ao cliente e desenvolvimento profissional.*[span_0](start_span)[span_0](end_span)
+  <img src="https://images.prodia.xyz/11678389584014414588.jpeg" width="400" alt="Minha Gatinha Peludinha Dev">
 </div>
 
----
-
-### 📚 Sobre Mim & Objetivos
-Sou estudante de **Gestão de Recursos Humanos** com sólida experiência em atendimento ao cliente de alta complexidade, monitoria de qualidade e suporte administrativo[span_1](start_span)[span_1](end_span). Busco aplicar minhas competências na otimização de processos de escritório, controle de relatórios, rotinas organizacionais e melhoria contínua de fluxos operacionais[span_2](start_span)[span_2](end_span).
+# 🌸 Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍
 
 ---
 
-### 💻 Conhecimentos Técnicos & Ferramentas
-*   **Dados & Relatórios:** Power BI, Excel Avançado e Google Sheets aplicados à gestão de processos[span_3](start_span)[span_3](end_span).
-*   **Tecnologia & Lógica:** Python com foco em Estruturas de Dados, Java e Spring AI[span_4](start_span)[span_4](end_span).
-*   **Sistemas:** Domínio de Planilhas e Sistemas integrados ERP/CRM[span_5](start_span)[span_5](end_span).
+### 👋 💖 Olá, eu sou a Gabrielly Silva! 💖 ✨
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-TRABALHANDO-success?style=for-the-badge&logoColor=white&color=FF1493" alt="Status">
+</p>
+
+> 💖 **Sou profissional com sólida bagagem na área corporativa e de relacionamento estratégico, atualmente graduanda em Gestão de Recursos Humanos. Sou apaixonada por processos eficientes, inovação tecnológica, análise de dados e atendimento de excelência.** 💅
 
 ---
 
-### 🎓 Formação Acadêmica
-*   **Graduação Tecnológica em Gestão de Recursos Humanos** – Faculdade Anhanguera (04/2026 - Cursando)[span_6](start_span)[span_6](end_span)
+### 💼 🦋 Um pouco sobre a minha trajetória 🦋
+* 📞 **Excelência em Atendimento:** Forte atuação no setor bancário com monitoria de qualidade, gestão de crises e suporte ao segmento de Alta Renda.
+* 📈 **Foco em Resultados:** Histórico comprovado de otimização de processos internos e elevação de mais de 30% nos indicadores de satisfação (NPS).
+* ✈️ **Transição e Futuro:** Unindo a paixão pelo setor aeroportuário à capacitação técnica contínua em análise de dados e ferramentas tecnológicas.
 
 ---
 
-### 📜 Cursos Complementares & Certificações (Atualizado)
-Aqui estão todos os meus cursos unificados, incluindo as novas atualizações:
+### 🛠️ 🛍️ Ferramentas & Competências Técnicas 🛍️
+Aqui estão as principais tecnologias que domino no meu dia a dia:
 
-*   **Criação de Conteúdo e Estratégia Digital:** Planejamento estratégico para mídias, posicionamento e gestão de engajamento em plataformas digitais (Concluído em 28/04/2026)[span_7](start_span)[span_7](end_span).
-*   **Análise de Dados e Ferramentas Corporativas:** Power BI, Python com foco em Estruturas de Dados e Excel Avançado (Fundação Bradesco)[span_8](start_span)[span_8](end_span).
-*   **Formação em Tecnologia & Inovação:** Capacitação técnica em Java e Spring AI (Digital Innovation One - DIO)[span_9](start_span)[span_9](end_span).
-*   **Certificação Profissional em Aviação Civil:** Comissária de Voo e Agente de Aeroporto (Concluído em 06/2025 - CTP Alagoas)[span_10](start_span)[span_10](end_span).
-*   **Preparatório para Certificação ANAC** (Em andamento/Foco na carreira de aviação).
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=FF1493" alt="Excel">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=FF69B4" alt="SQL">
+  <img src="https://img.shields.io/badge/ChatGPT_&_IA-412991?style=for-the-badge&logo=openai&logoColor=white&color=FF1493" alt="IA">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=FF69B4" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=FF1493" alt="Spring">
+</p>
 
----
-
-### 💼 Experiência Profissional
-*   **Monitora de Qualidade** (07/2023 - 02/2026) — Setor Bancário[span_11](start_span)[span_11](end_span)
-    *   Análise, auditoria e monitoramento de interações para garantia de conformidade com as normas regulamentares[span_12](start_span)[span_12](end_span).
-    *   Elaboração de relatórios gerenciais de desempenho e desenvolvimento de planos de ação para melhoria contínua[span_13](start_span)[span_13](end_span).
-    *   Aplicação de feedbacks construtivos e apoio no desenvolvimento técnico e comportamental de equipes[span_14](start_span)[span_14](end_span).
-*   **Representante de Atendimento ao Cliente** (07/2023 - 02/2026) — Setor Bancário[span_15](start_span)[span_15](end_span)
-    *   Atendimento direcionado à resolução de demandas complexas com foco em eficiência e inteligência emocional[span_16](start_span)[span_16](end_span).
-    *   Alimentação de bancos de dados internos, registro minucioso de históricos e condução de fluxos[span_17](start_span)[span_17](end_span).
+* 📊 **Análise de Dados:** Criação de planilhas inteligentes e relatórios no Excel, Power BI e Google Sheets.
+* 🗄️ **Banco de Dados & Código:** Desenvolvimento de consultas estruturadas em SQL e lógica avançada com linguagens como Java e Python.
+* 🤖 **Inteligência Artificial:** Engenharia de prompts aplicados à produtividade e ecossistema Spring AI.
 
 ---
 
-### 💌 Vamos nos conectar?
+### 📜 🎓 Formação & Certificações 🎓
 
-<div align="left">
-  <a href="https://wa.me/5582994292600" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+* 💗 **Graduação em Gestão de Recursos Humanos** *(Início em 04/2026 - Cursando)* — Universidade Anhanguera.
+* ✈️ **Formação Técnica e Certificação em Aviação:** Certificação Profissional em Aviação Civil: Comissária de Voo e Agente de Aeroporto *(Concluído em 06/2025)* — CTP Alagoas.
+* 🤖 **Tecnologia, Lógica e Dados** *(Parceria DIO & Bradesco / Fundação Bradesco)*:
+  * *Formação em Tecnologia & Inovação (Bootcamps e Trilhas DIO):* Lógica de Programação e Estruturas de Dados (Básico ao Avançado), Sintaxe e Fundamentos da Linguagem Java, Programação Orientada a Objetos (POO) com Java, Desenvolvimento de APIs e Ecossistema Spring Boot, e Integração de Inteligência Artificial com Spring AI.
+  * *Desafios de Código:* Prática intensa e resolução de problemas algorítmicos.
+  * *Análise de Dados e Ferramentas Corporativas (Fundação Bradesco):* Power BI, Python com foco em Estruturas de Dados, Excel Avançado e Google Sheets aplicados à gestão de relatórios e processos.
+* 📈 **Estratégia de Posicionamento & Negócios:** * Criação de Conteúdo e Estratégia Digital: Planejamento estratégico para mídias e gestão de engajamento em plataformas digitais.
+  * Atendimento ao Cliente e Técnicas de Vendas — Fundação Bradesco.
+
+---
+
+### 📬 💕 Vamos nos conectar? 💕
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabrielly-silva-b9030b22a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" alt="LinkedIn">
   </a>
-</div>
-
----
-
-<div align="center">
-  <sub>Foco, determinação e um toque de rosa! 💕</sub>
-</div>
+  <a href="mailto:gabriellyssiz2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF1493" alt="Email">
+  </a>
+</p>
 
