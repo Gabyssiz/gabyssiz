@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="https://i.ibb.co/6w46ZgW/gatinha-branca-olhos-verdes.png" width="180" alt="Gatinha Branca de Olhos Verdes">
+  <!-- SUBSTITUA O LINK ABAIXO PELO LINK GERADO AO ARRASTAR A FOTO PARA O GITHUB -->
+  <img src="COLE_AQUI_O_LINK_GERADO_PELO_GITHUB" width="180" alt="Gatinha Branca de Olhos Verdes">
   <br>
   <sub><span style="color: #FF1493;">miau... ✨</span></sub>
 </p>
 
-# <span style="color: #FF69B4;">Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍</span>
+<h1 align="center"><span style="color: #FF69B4;">Olá! Eu sou a Gabrielly Silva, bem-vinda ao meu mundo ✈️🌍</span></h1>
+
+<p align="center">
+  <img src="https://shields.io" alt="Status">
+</p>
 
 ---
 
-### 👋 <span style="color: #FF00FF;">Olá, eu sou a Gabrielly Silva!</span> 💖
-
-<p align="left">
-  <img src="https://img.shields.io/badge/STATUS-TRABALHANDO-success?style=for-the-badge&logoColor=white&color=FF1493" alt="Status">
-</p>
+### 👋 <span style="color: #FF00FF;">Sobre Mim</span> 💖
 
 <span style="color: #FF1493;">Sou profissional com uma trajetória consolidada no ambiente corporativo e de relacionamento estratégico, atualmente graduanda em **Gestão de Recursos Humanos**. Meu foco é a interseção entre o desenvolvimento humano e a transformação tecnológica. Sou completamente apaixonada por desenhar processos eficientes, implementar automações inteligentes, realizar análise avançada de dados e garantir um padrão de atendimento de altíssima excelência. Unindo sensibilidade estratégica e inovação, busco constantemente otimizar o ecossistema corporativo.</span> 💅
 
@@ -29,12 +30,12 @@
 Aqui estão as principais tecnologias e ferramentas que domino e aplico de forma prática nas minhas rotinas e projetos de negócios:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Power_Query_&_ETL-E34F26?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" alt="Power Query">
-  <img src="https://img.shields.io/badge/SQL_&_Databases-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot">
-  <img src="https://img.shields.io/badge/ChatGPT_&_IA_Gen-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://shields.io" alt="Excel">
+  <img src="https://shields.io" alt="Power Query">
+  <img src="https://shields.io" alt="SQL">
+  <img src="https://shields.io" alt="Copilot">
+  <img src="https://shields.io" alt="IA">
+  <img src="https://shields.io" alt="Markdown">
 </p>
 
 * 📊 <span style="color: #FF1493;">**Análise de Dados & BI:**</span> Engenharia de dados aplicada com a estruturação de pipelines de extração, transformação e carregamento (ETL) automatizados no Power Query e manipulação avançada de dados corporativos no Excel 365.
@@ -64,7 +65,7 @@ Aqui estão as principais tecnologias e ferramentas que domino e aplico de forma
 
 #### 🎨 Posicionamento Estratégico & Portfólio:
 * 🏆 <span style="color: #FF69B4;">**Desafios de Projetos: Crie Um Portfólio Vencedor**</span> — *Metodologia prática para documentação de projetos e destaque no mercado — DIO*
-* 📸 <span style="color: #FF69B4;">**Criação de Conteúdo e Estratégia para Instagram**</span> — *Estratégia de marca pessoal, identidade visual e engajamento digital*
+* 📸 <span style="color: #FF69B4;">**Criação de Conteúdo e Estratégia para Instagram**</span> — *Estratégia de marca pessoal, identity visual e engajamento digital*
 
 ---
 
@@ -73,11 +74,10 @@ Aqui estão as principais tecnologias e ferramentas que domino e aplico de forma
 Seja para trocar ideias sobre projetos de IA, análise de dados, mercado de aviação ou estratégias modernas de Recursos Humanos, fique à vontade para me encontrar nas redes oficiais:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabrielly-silva-b9030b22a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
   </a>
   <a href="mailto:gabriellyssiz2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://shields.io" alt="Email">
   </a>
 </p>
-
