@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=600" width="180" alt="Gatinha Branca de Olhos Verdes">
   <br>
-
-
 <div align="center">
   <!-- Gatinha Branca e Peludinha com Lacinho -->
   <img src="https://images.prodia.xyz/11678389584014414588.jpeg" width="350" alt="Gaby's World" style="border-radius: 15px;">
