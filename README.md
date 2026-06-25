@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="watermarked_img_7322173539703951073.png" width="420" alt="Meu Shih Tzu Dev">
+  <img src="SUA_FOTO_AQUI" width="400" alt="Meu Cachorro Lindo Dev">
 </div>
 
 # 🌸 Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍
@@ -50,7 +50,7 @@ Aqui estão as principais tecnologias e competências que domino e aplico no meu
 * **Graduação Tecnológica em Gestão de Recursos Humanos** *Faculdade Anhanguera* — Início em 04/2026 (Cursando)  
   *Foco em rotinas organizacionais, engajamento, triagem e melhoria contínua de fluxos operacionais.*
 
-#### ✈️ Formação Técnica e Certificação em Aviação
+#### ✈️ Formação Técnico e Certificação em Aviação
 * **Certificação Profissional em Aviação Civil: Comissária de Voo e Agente de Aeroporto** *CTP Alagoas* — Concluído em 06/2025  
   *Capacitação focada em segurança, atendimento ao cliente de alto padrão e rotinas aeroportuárias.*
 
@@ -65,7 +65,7 @@ Aqui estão as principais tecnologias e competências que domino e aplico no meu
   * Power BI, Python com foco em Estruturas de Dados, Excel Avançado e Google Sheets aplicados diretamente à gestão de relatórios corporativos.
 
 #### 📈 Cursos de Negócios e Estratégia Digital
-* **Criação de Conteúdo e Estratégia Digital:** Planejamento estratégico para mídias, posicionamento de imagem e gestão de engajamento em plataformas digitais *(Concluído em 28/04/2026)*.
+* **Criação de Conteúdo e Estratégia Digital:** Planejamento estratégico para mídias, positioning de imagem e gestão de engajamento em plataformas digitais *(Concluído em 28/04/2026)*.
 * **Atendimento ao Cliente e Técnicas de Vendas:** Aperfeiçoamento em inteligência emocional e resolução de demandas complexas pela *Fundação Bradesco*.
 
 ---
@@ -104,4 +104,5 @@ Aqui estão as principais tecnologias e competências que domino e aplico no meu
 <div align="center">
   <sub>Foco, determinação e um toque de rosa! 💕</sub>
 </div>
+
 
