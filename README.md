@@ -1,25 +1,17 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=300&auto=format&fit=crop" width="150" style="border-radius: 50%; border: 3px solid #FFB6C1;" alt="Gatinha Branca de Olhos Verdes">
+  <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=600" width="180" alt="Gatinha Branca de Olhos Verdes">
   <br>
-  <code style="color: #FF69B4; background-color: #FFF0F5; padding: 2px 6px; border-radius: 4px;">miau... ✨</code>
+  <sub><span style="color: #FF1493;">miau... ✨</span></sub>
 </p>
 
-<h1 align="center"><span style="color: #FF69B4;">Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍</span></h1>
-
-<p align="center" style="color: #DB7093; font-style: italic;">
-  Gestão de Recursos Humanos | Desenvolvimento Humano & Transformação Tecnológica
-</p>
+# <span style="color: #FF69B4;">Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍</span>
 
 ---
 
-### 🌸 <span style="color: #FF69B4;">Sobre Mim</span>
+### 👋 <span style="color: #FF00FF;">Olá, eu sou a Gabrielly Silva!</span> 💖
 
-<p align="left" style="line-height: 1.6; color: #4A4A4A;">
-  Olá, eu sou a <strong>Gabrielly Silva</strong>! 💖<br>
-  Sou uma profissional com uma trajetória consolidada no ambiente corporativo e de relacionamento estratégico. Atualmente, sou graduanda em <strong>Gestão de Recursos Humanos</strong>, onde busco conectar o potencial humano com a inovação e a transformação tecnológica.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Ativa-ff69b4?style=flat-square" alt="Status">
 </p>
 
-### 🛠️ <span style="color: #FF69B4;">Interesses & Foco</span>
-
-* 🎀 **Desenvolvimento de Talentos:** Foco em crescimento individual e organizacional.
-* ✈️ **Aviação & Atendimento:**
+<span style="color: #FF1493;">Sou profissional com uma trajetória consolidada no ambiente corporativo e de relacionamento estratégico, atualmente graduanda em **Gestão de Recursos Humanos**. Meu foco é a interseção entre o desenvolvimento humano e a transformação tecnológica.</span>
