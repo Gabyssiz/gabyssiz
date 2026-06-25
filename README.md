@@ -1,19 +1,18 @@
 <p align="center">
-  <!-- SUBSTITUA O LINK ABAIXO PELO LINK GERADO AO ARRASTAR A FOTO PARA O GITHUB -->
-  <img src="COLE_AQUI_O_LINK_GERADO_PELO_GITHUB" width="180" alt="Gatinha Branca de Olhos Verdes">
+  <img src="COLOQUE_AQUI_O_LINK_DA_SUA_FOTO" width="180" alt="Gatinha Branca de Olhos Verdes">
   <br>
   <sub><span style="color: #FF1493;">miau... ✨</span></sub>
 </p>
 
-<h1 align="center"><span style="color: #FF69B4;">Olá! Eu sou a Gabrielly Silva, bem-vinda ao meu mundo ✈️🌍</span></h1>
-
-<p align="center">
-  <img src="https://shields.io" alt="Status">
-</p>
+# <span style="color: #FF69B4;">Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍</span>
 
 ---
 
-### 👋 <span style="color: #FF00FF;">Sobre Mim</span> 💖
+### 👋 <span style="color: #FF00FF;">Olá, eu sou a Gabrielly Silva!</span> 💖
+
+<p align="left">
+  <img src="https://shields.io" alt="Status">
+</p>
 
 <span style="color: #FF1493;">Sou profissional com uma trajetória consolidada no ambiente corporativo e de relacionamento estratégico, atualmente graduanda em **Gestão de Recursos Humanos**. Meu foco é a interseção entre o desenvolvimento humano e a transformação tecnológica. Sou completamente apaixonada por desenhar processos eficientes, implementar automações inteligentes, realizar análise avançada de dados e garantir um padrão de atendimento de altíssima excelência. Unindo sensibilidade estratégica e inovação, busco constantemente otimizar o ecossistema corporativo.</span> 💅
 
@@ -65,13 +64,13 @@ Aqui estão as principais tecnologias e ferramentas que domino e aplico de forma
 
 #### 🎨 Posicionamento Estratégico & Portfólio:
 * 🏆 <span style="color: #FF69B4;">**Desafios de Projetos: Crie Um Portfólio Vencedor**</span> — *Metodologia prática para documentação de projetos e destaque no mercado — DIO*
-* 📸 <span style="color: #FF69B4;">**Criação de Conteúdo e Estratégia para Instagram**</span> — *Estratégia de marca pessoal, identity visual e engajamento digital*
+* 📸 <span style="color: #FF69B4;">**Criação de Conteúdo e Estratégia para Instagram**</span> — *Estratégia de marca pessoal, identidade visual e engajamento digital*
 
 ---
 
 ### 📬 <span style="color: #FF00FF;">Vamos nos conectar?</span> 💕
 
-Seja para trocar ideias sobre projetos de IA, análise de dados, mercado de aviação ou estratégias modernas de Recursos Humanos, fique à vontade para me encontrar nas redes oficiais:
+Seja para trocar ideias sobre projetos de IA, análise de dados, mercado de aviação ou estratégias modernas de Recursos Humanos, fique à vista para me encontrar nas redes oficiais:
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
